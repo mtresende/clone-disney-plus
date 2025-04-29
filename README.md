@@ -13,18 +13,12 @@ Este é um projeto de **clone do Disney Plus** desenvolvido com **HTML**, **SCSS
 - **HTML** para estruturação das páginas.
 - **SCSS** para estilos e responsividade.
 - **JavaScript** para interatividade e dinamicidade do conteúdo.
+- **Gulp.js** para automação de tarefas no ambiente de desenvolvimento.
 
 ## Deploy
 
 Você pode acessar o projeto através do seguinte link:  
 **https://clone-disneyplus-coral.vercel.app/#**
-
-## 📁 Estrutura do Projeto
-
-
-- `index.html`: Página principal da aplicação.
-- `gulpfile.js`: Arquivo de automação de tarefas.
-- `package.json`: Gerenciador de dependências.
 
 ## Considerações Finais
 
